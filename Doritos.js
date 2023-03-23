@@ -1,3 +1,3 @@
-function add(x,y){
-    return "x + y hellow world";
+function multiply(x,y){
+    return "x + y hello world";
 }
